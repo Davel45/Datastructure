@@ -1,0 +1,3 @@
+C:/Users/Vadim/CLionProjects/datastructure/cmake-build-debug/CMakeFiles/datastructure.dir
+C:/Users/Vadim/CLionProjects/datastructure/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vadim/CLionProjects/datastructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
